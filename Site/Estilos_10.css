@@ -1,0 +1,140 @@
+@charset "utf-8";
+/* CSS Document */
+
+.Logo{
+    width: 100px;
+    height: 150px;
+}
+
+.Cabeca{
+    background-color: #8C2E30;
+    text-align: center;
+    width: 100%;
+    height: 160px;
+}
+
+body{
+    background-color: #F3CACB;
+    margin: 0%;
+}
+
+.Titulo{
+    text-align: center;
+}
+
+.HisTexto{
+    font-size: 25px;
+    text-align: center;
+}
+.Final{
+    background-color: #8C2E30;
+    width: 100%;
+    height: 100px;
+}
+.Redes{
+    width:75px;
+    height: 45px;
+}
+.RI{
+    position: absolute;
+    left: 90%;
+    top: 1470px;
+    margin-left: 50px;
+    margin-right: 50px;
+    
+}
+.Linhas{
+    text-align: center;
+    width: 50%; 
+    border-color: black;
+}
+.Imagens{
+    text-align: center;
+}
+.Imagem1{
+    width: 700px;
+    border: outset red;
+    border-bottom-left-radius: 100px;
+    border-bottom-right-radius: 100px;
+    border-top-left-radius: 100px;
+    border-top-right-radius: 100px;
+}
+.Textos{
+    text-align: center;
+    font-size: 20px;
+}
+.RI2{
+    position: absolute;
+    left: 90%;
+    top: 2480px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.RI3{
+    position: absolute;
+    left: 90%;
+    top: 2455px;
+    margin-left: 50px;
+    margin-right: 50px; 
+}
+.RI4{
+    position: absolute;
+    left: 90%;
+    top: 2320px;
+    margin-left: 50px;
+    margin-right: 50px; 
+}
+.RI5{
+    position: absolute;
+    left: 90%;
+    top: 2275px;
+    margin-left: 50px;
+    margin-right: 50px;   
+}
+.RI6{
+    position: absolute;
+    left: 90%;
+    top: 2455px;
+    margin-left: 50px;
+    margin-right: 50px;    
+}
+.Ranking{
+    align: center;
+    font-size: 25px;
+    border: solid;
+}
+.CRank{
+    border: solid ;
+    text-align: center;
+}
+.CRank2{
+   text-align: center; 
+    border: solid;
+}
+.RI7{
+    position: absolute;
+    left: 90%;
+    top: 1945px;
+    margin-left: 50px;
+    margin-right: 50px;     
+}
+.RI8{
+    position: absolute;
+    left: 90%;
+    top: 2870px;
+    margin-left: 50px;
+    margin-right: 50px; 
+}
+.ae{
+    text-align: left;
+    position: relative;
+    top: 10px;
+}
+.ad{
+    text-align: right;
+}
+a{
+    font-size: 20px;
+    color: black;
+    font-style: italic;
+}
